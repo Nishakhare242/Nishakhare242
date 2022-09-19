@@ -1,15 +1,13 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Nisha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/Nisha--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Nisha-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Nisha khare-red)](https://www.youtube.com/Nisha khare)
+[![Linkedin Badge](https://img.shields.io/badge/-Nisha-blue?
 
 I'm Nisha khare Currently learning Html, css,Bootstrap React,Js Express Js node Js mongo db paymentgateway and deployment.
-i also have interest in laguages like jaonese and spanish
+i also have interest in languages like japanese and spanish
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Nisha khare/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
